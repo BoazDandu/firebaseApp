@@ -22,7 +22,7 @@ document.body.addEventListener("click", function() {
         Color: color
     }
 
-    // setDoc(docRef, data)
+    setDoc(docRef, data)
     // .then(docRef => {
     //     console.log("Document has updated succesfully");
     // })
